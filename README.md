@@ -1,4 +1,9 @@
 # **Инструкция по работе с Git**
+
+## Ссылка для источник
+
+[InkonTGTIF](https://github.com/InkonTGTIF/GIT_instruction)
+
 # **В этом гайде**
 
 | Тема | Переход |
@@ -14,7 +19,7 @@
 
 ---
 
-## <a id="title1">Ссылки для скачивания</a>
+## **Ссылки для скачивания**
 
 | [Windows](https://git-scm.com/download/win) | [Linux/Unix](https://git-scm.com/download/linux) | [macOS](https://git-scm.com/download/mac) |
 
