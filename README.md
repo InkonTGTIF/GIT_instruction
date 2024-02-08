@@ -25,11 +25,11 @@
 1. Откройте терминал сочетанием клавиш <kbd>WIN</kbd> + <kbd>R</kbd> и введите:
 - cmd
 
-![Alt text](.image/windows_cmd.png)
+![Alt text](image/windows_cmd.png)
 
 - Или в директории (Папке) - <kbd>ПКМ</kbd> - '*Открыть в Терминале*'
 
-![Alt text](.image/windows_directory.png)
+![Alt text](image/windows_directory.png)
 
 2. Введите команду:
 ```
@@ -47,7 +47,7 @@ git status
 ```
 Ссылка на официальную документацию [status](https://git-scm.com/docs/git-status)
 
-![Alt text](.image/git_status.png)
+![Alt text](image/git_status.png)
 > Вывод уведомляет, что есть файлы которые Git не отслеживает.
 
 
@@ -57,7 +57,7 @@ git add <название файла>
 ```
 Ссылка на официальную документацию [add](https://git-scm.com/docs/git-add)
 
-![Alt text](.image/git_add.png)
+![Alt text](image/git_add.png)
 > Вывод уведомляет, что Git отслеживает новые файлы.
 
 ---
@@ -81,7 +81,7 @@ git diff
 ```
 Ссылка на официальную документацию [diff](https://git-scm.com/docs/git-diff)
 
-![Alt text](.image/git_diff.png)
+![Alt text](image/git_diff.png)
 
 ---
 
@@ -92,7 +92,7 @@ git log
 ```
 Ссылка на официальную документацию [log](https://git-scm.com/docs/git-log)
 
-![Alt text](.image/git_log.png)
+![Alt text](image/git_log.png)
 
 > По умолчанию `git log` перечисляет коммиты, сделанные в репозитории в обратном к хронологическому порядке — последние коммиты находятся вверху.
 
